@@ -46,12 +46,11 @@ I proactively maintained and troubleshot complex network issues, resulting in a 
 
 ### Education:
 
-- 👩‍🎓 **MISiS** Engineer (2019-2024)
-- 👩‍🎓 **HSE** Masters degree in Software Engineering/DE (2024-2026)
+ - **MISiS** Engineer (2019-2024)
+ - **HSE** Masters degree in Software Engineering/DE (2024-2026)
 
 ### My project 
 
-** Реализовал код сборки витрины на scala с использованием api spark. **
-** https://github.com/FedorKomarovskiy/IntelliJ-IDEA **
+- The showcase assembly code has been implemented in scala using the Spark API. https://github.com/FedorKomarovskiy/IntelliJ-IDEA 
 
 
