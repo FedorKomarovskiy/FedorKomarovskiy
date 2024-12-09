@@ -11,7 +11,8 @@ I'm Fedor Komarovskiy, Junior Data Engineer.
 <p align='center'>
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />  m1910465@edu.misis.ru
 </p>
-## Skills
+
+## **Skills**
 
 Databases: 
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
