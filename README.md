@@ -39,7 +39,7 @@ I spearheaded the migration to a new cloud-based infrastructure, resulting in a 
 - 📶 **Internet Service Provider Engineer**\
 📆 august 2019 - may 2023\
 📍 **Realtelecom** - Moscow, Russia\
-I proactively maintained and troubleshot complex network issues, resulting in a 20% reduction in service outages and a 15% decrease in mean time to repair (MTTR). Successfully resolved a major network outage impacting over 500 customers within 2 hours, minimizing service disruption. This is involved identifying the root cause and implementing a permanent fix to prevent future occurrences.
+I proactively maintained and troubleshot complex network issues, resulting in a 20% reduction in service outages and a 15% decrease in mean time to repair (MTTR). Successfully resolved a major network outage impacting over 4500 customers within 2 hours, minimizing service disruption. This is involved identifying the root cause and implementing a permanent fix to prevent future occurrences.
 
 ## About me
 
