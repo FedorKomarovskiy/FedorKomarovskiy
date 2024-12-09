@@ -34,7 +34,7 @@ Proven teamwork and collaboration skills
 - 👨‍💻 **System administrator**\
 📆 May 2023 - moment\
 📍 **MISIS** - Moscow, Russia\
-*I spearheaded the migration to a new cloud-based infrastructure, resulting in a 25% reduction in server costs and a 30% increase in application performance.s.
+I spearheaded the migration to a new cloud-based infrastructure, resulting in a 25% reduction in server costs and a 30% increase in application performance.
 
 - 📶 **Internet Service Provider Engineer**\
 📆 august 2019 - may 2023\
